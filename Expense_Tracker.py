@@ -167,7 +167,7 @@ def expense_to_words_before_adding():
 		mb.showinfo('Ok', 'Please take your time to add this record')
 
 
-# Backgrounds anf Fonts
+# Backgrounds and Fonts
 dataentery_frame_bg = 'Red'
 buttons_frame_bg = 'Tomato'
 hlb_btn_bg = 'IndianRed'
